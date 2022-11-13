@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# 2 Angular-App
+ To use one at a time make change in `app.component.html` file 
+ 1. Todo list built with Angular
+ 2. Embedded Unlayer editor using Angular Component.  
+
+
